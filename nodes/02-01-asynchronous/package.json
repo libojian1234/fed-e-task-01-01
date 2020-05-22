@@ -1,0 +1,17 @@
+{
+  "name": "aysnc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lbj",
+  "license": "ISC",
+  "dependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "webpack-dev-server": "^3.11.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
